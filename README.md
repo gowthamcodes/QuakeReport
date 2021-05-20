@@ -1,2 +1,2 @@
 # Quake Report
-# Simple Networking Application
+Simple Networking Application
