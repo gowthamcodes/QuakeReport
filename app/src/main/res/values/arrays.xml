@@ -9,4 +9,20 @@
         <item>@string/settings_order_by_magnitude_value</item>
         <item>@string/settings_order_by_most_recent_value</item>
     </string-array>
+
+    <string-array name="settings_response_length_labels">
+        <item>@string/settings_response_length_20_label</item>
+        <item>@string/settings_response_length_40_label</item>
+        <item>@string/settings_response_length_60_label</item>
+        <item>@string/settings_response_length_80_label</item>
+        <item>@string/settings_response_length_100_label</item>
+    </string-array>
+
+    <string-array name="settings_response_length_values">
+        <item>@string/settings_response_length_20_value</item>
+        <item>@string/settings_response_length_40_value</item>
+        <item>@string/settings_response_length_60_value</item>
+        <item>@string/settings_response_length_80_value</item>
+        <item>@string/settings_response_length_100_value</item>
+    </string-array>
 </resources>

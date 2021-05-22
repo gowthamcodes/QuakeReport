@@ -3,6 +3,13 @@
     android:title="@string/settings_title">
 
     <ListPreference
+        android:defaultValue="@string/settings_response_length_default"
+        android:entries="@array/settings_response_length_labels"
+        android:entryValues="@array/settings_response_length_values"
+        android:key="@string/settings_response_length_key"
+        android:title="@string/settings_response_length_label" />
+
+    <ListPreference
         android:defaultValue="@string/settings_order_by_default"
         android:entries="@array/settings_order_by_labels"
         android:entryValues="@array/settings_order_by_values"

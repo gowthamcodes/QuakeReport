@@ -30,6 +30,9 @@ public class SettingsActivity extends AppCompatActivity {
 
             Preference orderBy = findPreference(getString(R.string.settings_order_by_key));
             bindPreferenceSummaryToValue(orderBy);
+
+            Preference length = findPreference(getString(R.string.settings_response_length_key));
+            bindPreferenceSummaryToValue(length);
         }
 
         private void bindPreferenceSummaryToValue(Preference minMagnitude) {
