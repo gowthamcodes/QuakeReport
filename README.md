@@ -1,3 +1,7 @@
 # Quake Report
-Simple Networking Application
-![app_screenshot jpg](https://user-images.githubusercontent.com/62807643/119186886-2e533d80-ba96-11eb-8cc3-85e221d3cb4f.jpg)
+  This application displays most recent earthquakes in the world based on user preference.
+
+### Application Screenshot
+![completed_version_screenshot](https://user-images.githubusercontent.com/62807643/119238648-45129680-bb61-11eb-93ff-462ca4f40327.jpg)
+
+
